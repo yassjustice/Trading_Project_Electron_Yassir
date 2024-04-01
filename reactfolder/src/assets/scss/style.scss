@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@import "bootstrap/scss/bootstrap.scss";
+@import "swiper/swiper-bundle.css";
+@import "animate.css/animate.min.css";
+@import "react-modal-video/scss/modal-video.scss";
+@import "../css/icons.min.css";
+
+@import "variables";
+@import "helper";
+@import "common";
+@import "preloader";
+@import "header";
+@import "slider";
+@import "support";
+@import "section-title";
+@import "product";
+@import "blog";
+@import "footer";
+@import "banner";
+@import "suscribe";
+@import "about";
+@import "image-slider";
+@import "testimonial";
+@import "brand-logo";
+@import "timers";
+@import "breadcrumb";
+@import "sidebar";
+@import "shop";
+@import "product-details";
+@import "cart";
+@import "compare";
+@import "checkout";
+@import "contact";
+@import "blog-details";
+@import "login-register";
+@import "my-account";
+@import "404";
+@import "video-popup";
+
